@@ -2,6 +2,8 @@
 title: Introduction
 ---
 
+making introduction edits
+
 For documentation that touches on things like API endpoints, the Docs Starter comes with some built-in patterns and components that make it easy to outline headers, query parameters, JSON responses and more. You can see an example of an API Preview component on this page, to the right. The component is positioned sticky so that it follows you along the page as you scroll up and down and peruse the API Information.
 
 ### Directory Setup
